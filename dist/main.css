@@ -1,0 +1,11 @@
+footer {
+  height: 100px;
+  width: 100%;
+  background: green;
+  border: 2px solid red;
+}
+
+button {
+  font-family: fantasy;
+}
+
